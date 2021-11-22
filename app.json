@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "kortskalle",
+    "owner": "kortskalle",
     "slug": "kortskalle",
     "version": "0.0.3",
     "orientation": "portrait",
